@@ -31,12 +31,17 @@ public:
 };
 
 Animal *createAnimal() {
-    Animal *a = new Animal;
-    a->setName("Bob");
+    // Allocate memory on the heap (bigger than the stack)
+    Animal *pAnimal = new Animal();
+    pAnimal->setName("Bertie");
+    return pAnimal;
 }
 
 int main() {
 
+    // ==========================
+    //         Video 1
+    // ==========================
     // Allocate memory explicitly
     // parenthesis optional if constructor with no parameter
     Animal *pCat1 = new Animal();
@@ -49,6 +54,17 @@ int main() {
     Animal *pCat2 = NULL;
 
     cout << sizeof(pCat1) << endl;
+
+    cout << "========================" << endl;
+
+    // ==========================
+    //         Video 2
+    // ==========================
+    Animal *pFrog = createAnimal();
+
+    pFrog->speak();
+
+    delete pFrog;
 
     return 0;
 }

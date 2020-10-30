@@ -4,9 +4,6 @@
 using namespace std;
 
 // Loop through an array using a pointer, with array element reference syntax
-// Loop through an array by incrementing a pointer
-// Loop through an array, stopping by comparing two pointers
-
 void loopWithReference(string list[], int listSize) {
 
     string *pList = list;
@@ -15,6 +12,7 @@ void loopWithReference(string list[], int listSize) {
     }
 }
 
+// Loop through an array by incrementing a pointer
 void loopWithIncrementingPointer(string list[], int listSize) {
 
     string *pList = list;
@@ -23,6 +21,7 @@ void loopWithIncrementingPointer(string list[], int listSize) {
     }
 }
 
+// Loop through an array, stopping by comparing two pointers
 void loopWithComparingPointers(string list[], int listSize) {
     string *pElement = &list[0];
     string *pEnd = &list[(listSize / sizeof(string)) - 1];

@@ -1,0 +1,2 @@
+﻿  main.cpp
+D:\__PROJETS\__UDEMY\__CPP_FOR_BEGINNERS\8. Developing a Program - The Particle Fire Simulation\b.Enabling Pixel Access\main.cpp(5,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SDL.h' : No such file or directory

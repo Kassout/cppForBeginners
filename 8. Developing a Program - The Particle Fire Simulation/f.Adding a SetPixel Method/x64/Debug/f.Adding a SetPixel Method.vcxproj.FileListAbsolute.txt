@@ -1,0 +1,2 @@
+C:\Users\maxim\source\repos\f.Adding a SetPixel Method\x64\Debug\f.Adding a SetPixel Method.exe
+C:\Users\maxim\source\repos\f.Adding a SetPixel Method\x64\Debug\f.Adding a SetPixel Method.pdb

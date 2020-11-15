@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\__PROJETS\__UDEMY\__CPP_FOR_BEGINNERS\8. Developing a Program - The Particle Fire Simulation\h.Creating Particles\main.cpp(17,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+D:\__PROJETS\__UDEMY\__CPP_FOR_BEGINNERS\8. Developing a Program - The Particle Fire Simulation\h.Creating Particles\main.cpp(42,10): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+D:\__PROJETS\__UDEMY\__CPP_FOR_BEGINNERS\8. Developing a Program - The Particle Fire Simulation\h.Creating Particles\main.cpp(43,10): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+  h.Creating Particles.vcxproj -> D:\__PROJETS\__UDEMY\__CPP_FOR_BEGINNERS\8. Developing a Program - The Particle Fire Simulation\h.Creating Particles\x64\Debug\h.Creating Particles.exe

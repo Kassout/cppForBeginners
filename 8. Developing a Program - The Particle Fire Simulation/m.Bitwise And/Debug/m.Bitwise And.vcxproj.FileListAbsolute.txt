@@ -1,0 +1,2 @@
+D:\__PROJETS\__UDEMY\__CPP_FOR_BEGINNERS\8. Developing a Program - The Particle Fire Simulation\m.Bitwise And\Debug\m.Bitwise And.exe
+D:\__PROJETS\__UDEMY\__CPP_FOR_BEGINNERS\8. Developing a Program - The Particle Fire Simulation\m.Bitwise And\Debug\m.Bitwise And.pdb

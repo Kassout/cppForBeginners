@@ -1,0 +1,2 @@
+D:\__PROJETS\__UDEMY\__CPP_FOR_BEGINNERS\10. Bonus\a.Postfix and Prefix\x64\Debug\a.Postfix and Prefix.exe
+D:\__PROJETS\__UDEMY\__CPP_FOR_BEGINNERS\10. Bonus\a.Postfix and Prefix\x64\Debug\a.Postfix and Prefix.pdb
